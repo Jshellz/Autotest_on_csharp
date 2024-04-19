@@ -1,4 +1,3 @@
-using admin_kommer_ui;
 using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 
