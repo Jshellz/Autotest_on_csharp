@@ -2,6 +2,7 @@ using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 
 namespace test;
+namespace test;
 
 public class ReturnBackToHomePageFromMyListsStepDefinition: Ui
 {
